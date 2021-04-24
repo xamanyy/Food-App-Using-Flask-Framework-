@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "food-app--python-and-flask",
+  "private_key_id": "7b8ac5b4a5da8f0bc7e7697e294541bf43c412ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDPxzvAxJLPfhI\nCiubgKQmsprdZgRdXayF5ySPqAqbtImZAHR5+zsWhQ4pT9u6qzuTb00WeYkynvGH\nPRy3hYcZ2Zi29yAXciqQPJsv4dDDO+PPAXt0qQzP1ZourDRP/lSZpplgGoBgQi0W\n+S65druF8ha4Y5EL5i/9Rm8Mgf6pYNO/i9Lx7s43d5Pw9ORgK8m+fmI+O/ZKkMR2\nhZN25xZwmAy13L002NVi0kHU0JU1FmVyTXqKhqw5nXAmaFeQgiWI0O6iOU1Jpzx2\nBgpVJ+w46ZU2CdmjBzDsdYPyR2nw4J3/IzH7G7r6Sic3xHpw/Rr1LYWSrh7XL6UP\nXfgcMtB3AgMBAAECggEAHpLGdBg2CCQ3DwjQqp6qlbNdaWfX18rwVgjLgoHyJKRQ\n8O16T75AaBauZgJZn6cVQtFTRT6uIN10vWmbZ+gihLC8fNdru2Am5sPRb95bc1xF\nyvIqI9VzlSPsldG6C1YBvLcIHggTAX+7UcqelMTROSNJ3YEcgxF+LZnsOmLXaYGN\ni6kBrslIlg07kI1TL7zucg9vvNnK0skPNOELihRWJh2I693Y7q2FNOeYZasC5Pzt\n/HP2H4U+XG3ZaPnQQkFv1Y/c9RTPZjrCr0h6ERT1MI2lNF5xfjfsi3eSHDRtqigE\njgfGbGLKFOAxg+W3dCU7tpcoQ/e28wQdDC3NQvha4QKBgQDtn7NPoa7IFaUzvhvW\nllVjmO+lrEKC8Tv5/aiJLLI0frNKWshuL360MMO1gIR9Va6jr8g5AlMWDhGaExSA\ncK2Y64jh9ryLSvsoJKElb6WY8fcbbzamsJMOWP+L+hAs/XhCd0qS9Dikx4RfcdbA\n/XnXQ2lfPBZXB+ubBAOimv5L0QKBgQDSWHVe34WUYVI3ArBh50U2CQGQ8yhU2/2n\n+VGTWJ6yNFLCkf2HsUhOBT4risjscUIdV5ri1bkoFcWUuxB9XCxFujNwljCJebVL\ndHauD3vMpk9aq01aS3L6Ej1gq/5ZSGFYwq9CJoNEcG5k/qHqELgpMsE59YFQnjRd\nDlVd/e0RxwKBgQCfRxHxSaYXdfLTWRXd48z+wq+4NFws2zhhnHaQ5EXbTCYvq+R3\nfxyF+b3ldmzYektiatxh4j4BJZME3M88PMsQGqkZFcNR9wOc59igeFLezync2NIg\nL3GTB3Lbx9V54rjujHmPQWaKhTYkp/DUUdOOyB/kdyleUu/Ja4poP04/UQKBgAZa\nC3lI8KSxZ6UnnKHoNOvTy8tPvGkLl5ZJ7g+v/mLNN66OcAR38wIAIId6EmUpamCu\nc4vj/kpalfPOzkmqzd9xJvqAXojYNwRHSQoqh4d/gifvwk82tgsdH+NabjzN9bqT\nbm1l8lLPvlWoZsVFqfn8gV85raT8kgI5W5SSBWWjAoGAFdlkW9xLtr9tYBujcccz\nEFRXj9rYf5TmyJhc/Y4v+5BhBBzZazcUP7Od45iVUFjf462pGRmkM6T8TaRNpv4i\nVOGzWPi8ZqsEXbYyRDt/z9UP78CIX9ngn3nWNrCuKFIpedcQflZy/kgBvuAXiFoS\nbka7hR/Bfj5yNK3iQkmBAV0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-l2hhq@food-app--python-and-flask.iam.gserviceaccount.com",
+  "client_id": "114708106258632532227",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-l2hhq%40food-app--python-and-flask.iam.gserviceaccount.com"
+}
